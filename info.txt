@@ -1,0 +1,1 @@
+Integración con el api pública The Rick and Morty API, se muestra los datos en una tabla, se usó el link que trae los personajes pero se dividen en varias paginas de a 20 por cada pagina, asi que procedí a hacer la paginación para que efectivamente en el orden que proporciona la api se puedan ver todos.
